@@ -7,5 +7,5 @@ import org.springframework.data.repository.CrudRepository;
  * Created by Sandu
  * on 09.03.2018
  */
-public interface AuthorReository extends CrudRepository<Author,Long> {
+public interface AuthorRepository extends CrudRepository<Author,Long> {
 }
